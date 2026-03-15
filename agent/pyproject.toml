@@ -1,0 +1,19 @@
+[project]
+name = "coachfriend-agent"
+version = "0.1.0"
+description = "CoachFriend LiveKit voice agent"
+requires-python = ">=3.10"
+dependencies = [
+    "livekit-agents>=1.0",
+    "livekit-plugins-silero>=1.0",
+    "livekit-plugins-deepgram>=1.0",
+    "livekit-plugins-openai>=1.0",
+    "livekit-plugins-cartesia>=1.0",
+    "livekit-plugins-noise-cancellation>=0.2",
+    "livekit-plugins-turn-detector>=1.0",
+    "livekit-plugins-simli>=1.0",
+    "python-dotenv>=1.0",
+]
+
+[tool.uv]
+package = false

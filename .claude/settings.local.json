@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__livekit-docs__docs_search",
+      "mcp__livekit-docs__get_python_agent_example",
+      "mcp__livekit-docs__get_pages",
+      "Read(//c/Users/phivu/.config/livekit/**)",
+      "Read(//c/Users/phivu/.livekit/**)"
+    ]
+  }
+}
