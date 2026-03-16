@@ -1,6 +1,6 @@
 CoachFriend
-CoachFriend is an intelligent coaching platform designed to bridge the gap between coaches and athletes. By leveraging AI-driven insights and a seamless management interface, CoachFriend helps users track progress, optimize training schedules, and achieve their fitness goals more effectively.
 
+CoachFriend is an intelligent coaching platform designed to bridge the gap between coaches and athletes. By leveraging AI-driven insights and a seamless management interface, CoachFriend helps users track progress, optimize training schedules, and achieve their fitness goals more effectively.
 🚀 Features
 Personalized Training: Custom workout plans tailored to individual needs.
 
