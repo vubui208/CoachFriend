@@ -19,16 +19,18 @@ Progress Tracking: Monitor key performance indicators and athletic milestones.
 
 ⚙️ Setup & Installation
 Clone the repository:
-
+```
 Bash
 git clone https://github.com/vubui208/CoachFriend.git
+```
 Environment Variables:
 Create a .env file in the root directory and add your necessary API keys (see .env.example).
 
 Install Dependencies:
 Navigate to both frontend and agent folders and run:
-
+```
 Bash
 npm install
+```
 🛡️ Security Note
 Ensure that your .env file is added to your .gitignore to prevent leaking sensitive API keys or database credentials to GitHub.
